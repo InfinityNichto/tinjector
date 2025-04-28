@@ -1,7 +1,7 @@
 # tinjector!
-## "whats up with the name?"
+"whats up with the name?"
 tinjector is short for terraria injector, i just used terraria cause thats the game i play the most :P
----
+<br>
 currently uses ptrace to control target process. current main focus would be to create a working hooking mechanism on il2cpp games
 
 ## TODO:
