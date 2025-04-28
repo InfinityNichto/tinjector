@@ -4,6 +4,6 @@ libil2cpp/base/assets/bin/Data/resources.resource
 libil2cpp/dumper/script.json
 libil2cpp/dumper/il2cpp.h
 libil2cpp/dumper/dump.cs
-libil2cpp/dumper.DummyDlls/
+libil2cpp/dumper.DummyDll/
 libil2cpp/lib/
 compile_commands.json
