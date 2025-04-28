@@ -1,0 +1,5 @@
+*.so filter=lfs diff=lfs merge=lfs -text
+*.id* filter=lfs diff=lfs merge=lfs -text
+libil2cpp/lib/arm64/libil2cpp.so.id0 filter=lfs diff=lfs merge=lfs -text
+libil2cpp/lib/arm64/libil2cpp.so.id1 filter=lfs diff=lfs merge=lfs -text
+libil2cpp/lib/arm64/libil2cpp.so.i64 filter=lfs diff=lfs merge=lfs -text
